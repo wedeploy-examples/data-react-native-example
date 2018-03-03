@@ -1,9 +1,7 @@
-# WeDeploy Data / ReactNative Boilerplate
+# WeDeploy Data [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-This template will help you to develop an application for iOS and Android in ReactNative
+An example of [WeDeploy Data](https://wedeploy.com/docs/Data/) on React Native.
 
-> [Visit the documentation to learn how to start saving and fetching data in realtime.](http://wedeploy.com/docs/data/)
+## License
 
-## Related
-
-* [WeDeploy Data / Basic Boilerplate](https://github.com/wedeploy/boilerplate-data)
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
